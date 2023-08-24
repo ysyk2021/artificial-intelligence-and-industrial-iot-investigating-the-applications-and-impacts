@@ -1,5 +1,3 @@
-Global Trends in Industry 4.0 and Smart Manufacturing
-==========================================================================================
 
 Introduction
 ------------

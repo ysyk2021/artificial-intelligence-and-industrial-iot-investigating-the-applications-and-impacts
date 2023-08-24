@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial Intelligence (AI) has become increasingly important in the field of Industrial Internet of Things (IIoT) as it enables machines to learn from data and make decisions based on that information. Machine learning is a subfield of AI that focuses on developing algorithms that can automatically learn patterns and make predictions based on data. In this chapter, we will explore some of the fundamental machine learning techniques used in AI.
 

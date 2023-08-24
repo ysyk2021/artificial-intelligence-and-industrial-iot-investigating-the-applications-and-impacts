@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Industrial IoT
-===================================================================
 
 As Artificial Intelligence (AI) becomes increasingly integrated into industrial operations through the Industrial Internet of Things (IIoT), it is important to consider the ethical and legal implications of this technology. This chapter will explore some of the key ethical and legal issues related to AI in IIoT.
 

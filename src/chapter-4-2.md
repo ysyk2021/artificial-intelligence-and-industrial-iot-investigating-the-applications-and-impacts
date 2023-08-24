@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Industrial IoT
-===========================================================================================
 
 While the integration of Artificial Intelligence (AI) and Industrial Internet of Things (IIoT) has numerous benefits, there are also challenges and limitations to consider. In this chapter, we will explore some of the challenges and limitations of AI in IIoT.
 

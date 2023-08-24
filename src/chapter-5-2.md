@@ -1,5 +1,3 @@
-Supply Chain Optimization and Logistics
-=======================================================================================
 
 In this chapter, we will explore how AI-powered industrial IoT solutions can optimize supply chain and logistics operations in the manufacturing industry. We will discuss how these technologies are being used to improve efficiency, reduce costs, and enhance customer satisfaction.
 

@@ -1,5 +1,3 @@
-Ethical Considerations
-===========================================================================================
 
 As the integration of AI in industrial IoT continues to grow, it is important to consider the ethical and legal implications of these technologies. In this chapter, we will discuss some of the ethical considerations related to AI in industrial IoT.
 

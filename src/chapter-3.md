@@ -1,5 +1,3 @@
-Chapter 3: Industrial IoT Landscape
-===================================
 
 The Industrial Internet of Things (IIoT) is transforming the way industries operate, enabling companies to collect and analyze vast amounts of data in real-time. This chapter will explore the global trends in Industry 4.0 and smart manufacturing, as well as the components that make up the Industrial IoT landscape.
 

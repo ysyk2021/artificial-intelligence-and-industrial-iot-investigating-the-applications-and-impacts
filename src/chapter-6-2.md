@@ -1,5 +1,3 @@
-Legal Framework
-====================================================================================
 
 The integration of AI in industrial IoT raises important ethical and legal considerations related to accountability, liability, and the protection of personal data. In this chapter, we will discuss some of the legal frameworks that address these issues.
 

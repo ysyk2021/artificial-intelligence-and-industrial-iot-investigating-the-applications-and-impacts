@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Industrial IoT
-===============================================================================
 
 In recent years, the convergence of two major technologies, Artificial Intelligence (AI) and Industrial Internet of Things (IIoT), has been at the forefront of innovation in Industry 4.0. AI is a technology that allows machines to learn from data and perform tasks that typically require human intelligence, such as recognizing patterns, making predictions, and decision-making. IIoT refers to the use of advanced sensors, connectivity, and automation to collect and analyze real-time data from machines and equipment on the factory floor.
 

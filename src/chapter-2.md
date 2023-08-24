@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial Intelligence (AI) is a rapidly growing field that has revolutionized industries across the world. In this chapter, we will discuss the history of AI, types of AI and machine learning techniques.
 

@@ -1,5 +1,3 @@
-Benefits of AI in Industrial IoT
-=========================================================================
 
 The integration of Artificial Intelligence (AI) and Industrial Internet of Things (IIoT) has revolutionized the way industries operate. The use of AI in IIoT has significantly increased efficiency, reduced downtime, and improved overall production quality. In this chapter, we will explore the role of AI in IIoT and discuss its benefits.
 

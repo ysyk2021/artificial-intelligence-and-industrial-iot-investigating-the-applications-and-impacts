@@ -1,5 +1,3 @@
-Autonomous Systems and Robotics
-===============================================================================
 
 In this chapter, we will explore the role of AI-powered autonomous systems and robotics in revolutionizing the manufacturing industry. We will discuss how these technologies are being used to improve efficiency, reduce costs, and enhance safety in industrial settings.
 

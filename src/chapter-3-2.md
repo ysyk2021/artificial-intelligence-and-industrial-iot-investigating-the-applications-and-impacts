@@ -1,5 +1,3 @@
-Components of Industrial IoT
-=================================================================
 
 The industrial Internet of Things (IIoT) is a rapidly growing technology that is transforming the manufacturing industry. In this chapter, we will discuss the various components of IIoT and their impact on Industry 4.0.
 
