@@ -1,7 +1,4 @@
 
-Introduction
-------------
-
 The Industrial Internet of Things (IIoT) has emerged as a key driver of the fourth industrial revolution, commonly referred to as Industry 4.0. This chapter aims to provide an overview of the current global trends in IIoT and smart manufacturing, which are shaping the future of industry.
 
 Industry 4.0 and Smart Manufacturing
