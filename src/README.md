@@ -8,3 +8,7 @@ In this book, we will cover topics such as the role of AI and IIoT in optimizing
 Ultimately, this book seeks to provide readers with a comprehensive overview of the current state of AI and IIoT in Industry 4.0 and smart manufacturing, as well as insights into their potential for driving innovation and improving efficiency across the industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
