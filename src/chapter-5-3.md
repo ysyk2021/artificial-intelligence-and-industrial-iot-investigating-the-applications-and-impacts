@@ -1,5 +1,4 @@
-Chapter 6: Autonomous Systems and Robotics
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Autonomous systems and robotics are integral components of the Industrial Internet of Things (IIoT) ecosystem. This chapter explores the applications, advancements, and impacts of autonomous systems and robotics in the context of Industry 4.0.
 

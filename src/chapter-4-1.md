@@ -1,5 +1,4 @@
-Chapter 6: Benefits of Artificial Intelligence in Industrial IoT
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) plays a pivotal role in the Industrial Internet of Things (IIoT) revolutionizing the way industries operate in the context of Industry 4.0. This chapter explores the numerous benefits AI brings to the Industrial IoT landscape, enabling organizations to optimize processes, make data-driven decisions, and drive unprecedented efficiencies.
 

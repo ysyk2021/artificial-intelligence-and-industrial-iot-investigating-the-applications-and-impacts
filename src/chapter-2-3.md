@@ -1,5 +1,4 @@
-Chapter 5: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of Industry 4.0, machine learning has emerged as a prominent field within artificial intelligence (AI) that enables intelligent technologies to learn from data and make predictions or decisions. This chapter explores various machine learning techniques and their applications in industrial IoT.
 

@@ -1,5 +1,4 @@
-Chapter 3: Components of Industrial IoT
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The Industrial Internet of Things (IIoT) is a network of interconnected devices, machines, and systems that collect and exchange data to optimize industrial operations. To understand the workings of IIoT, it is essential to examine its components. This chapter explores the components of IIoT and their roles in enabling intelligent technologies and Industry 4.0.
 

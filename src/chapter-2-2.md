@@ -1,5 +1,4 @@
-Chapter 3: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses a wide range of technologies and approaches that aim to simulate or replicate human-like intelligence in machines. This chapter explores the different types of AI and their applications in the context of industrial IoT.
 

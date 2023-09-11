@@ -1,5 +1,4 @@
-Chapter 9: Global Trends in Industry 4.0 and Smart Manufacturing
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Industry 4.0 and smart manufacturing are transforming industries worldwide, enabling more intelligent, connected, and efficient operations. This chapter explores the global trends in Industry 4.0 and smart manufacturing, highlighting key developments, challenges, and implications for businesses and economies.
 

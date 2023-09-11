@@ -1,5 +1,4 @@
-Chapter 10: Legal Framework for Artificial Intelligence and Industrial IoT in Industry 4.0
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and Industrial Internet of Things (IIoT) technologies in Industry 4.0 brings about numerous opportunities and challenges. To ensure responsible and ethical implementation, it is essential to understand the legal framework surrounding these intelligent technologies. This chapter explores the legal considerations, regulations, and frameworks that govern AI and IIoT in the context of Industry 4.0.
 

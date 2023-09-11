@@ -1,5 +1,4 @@
-Chapter 2: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has a rich history that spans several decades. From its early conceptualization to the present-day advancements, this chapter explores the key milestones and developments in the field of AI.
 

@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Artificial Intelligence and Industrial IoT
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) and Industrial Internet of Things (IIoT) technologies in Industry 4.0 brings about numerous benefits, but it also raises ethical considerations that must be addressed. This chapter explores the ethical implications of AI and IIoT and highlights the importance of responsible and accountable deployment.
 

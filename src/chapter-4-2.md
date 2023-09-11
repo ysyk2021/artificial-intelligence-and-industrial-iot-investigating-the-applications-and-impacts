@@ -1,5 +1,4 @@
-Chapter 8: Challenges and Limitations of AI in Industrial IoT
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) and Industrial Internet of Things (IIoT) technologies brings numerous benefits to Industry 4.0. However, it also presents several challenges and limitations that must be addressed. This chapter explores the key challenges and limitations of AI in IIoT and highlights strategies to overcome them.
 

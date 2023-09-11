@@ -1,5 +1,4 @@
-Chapter 7: Predictive Maintenance and Quality Control
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Predictive maintenance and quality control are critical aspects of industrial IoT that leverage artificial intelligence to optimize operational efficiency, reduce downtime, and ensure product quality. This chapter explores the applications, benefits, and impacts of predictive maintenance and quality control in the context of Industry 4.0.
 
